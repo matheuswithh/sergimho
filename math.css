@@ -1,0 +1,14 @@
+body{
+background-color: rgb(148, 221, 221);
+}
+
+.login{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    transform: translate(-50,-50);
+    border: 2px solid rgb(46, 114, 119);
+
+}
+  
+    
